@@ -9,7 +9,8 @@ _Refined from Iteration 2, mapped to Test Cards H5–H8, H9–H12_
 **CS1 – Time-poor UQ students**  
 UQ students with tight class windows (especially 12:00–14:00, back-to-back) who want predictable pickup and minimal queueing.  
 - **Status:** Accepted  
-- **Trace:** i1 H1/H2 → i2 H5/H6 → i3 H11/H12
+- **Trace:** i1 H1/H2 → i2 H5/H6 → i3 H11/H12 (test_cards_v2.md)
+
 
 **CS2 – International / multi-language students**  
 Students who prefer to view menus and key actions in their preferred language, and need clear tags for allergens, spice, and dietary needs.  
