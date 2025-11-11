@@ -15,7 +15,8 @@ UQ students with tight class windows (especially 12:00–14:00, back-to-back) wh
 **CS2 – International / multi-language students**  
 Students who prefer to view menus and key actions in their preferred language, and need clear tags for allergens, spice, and dietary needs.  
 - **Status:** Refined in i3  
-- **Trace:** i1 H3 → i2 H7 → i3 H9/H10
+- **Trace:** i1 H3 → i2 H7 → i3 H9/H10 [Click here to view Test Cards](6811test.md)
+
 
 **CS3 – Campus restaurants (later)**  
 Campus merchants who want smoother peaks and fewer counter errors.  
